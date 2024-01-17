@@ -1,9 +1,9 @@
 ## Project(Project_Linux-File-Backup)
-### Part of the Coursera series: IBM Data Science
+### Part of the Coursera series: IBM Data Engineering & Python
     
 ## Summary
-We inputted a large dataset and ran a number of statistical analyses to better understand what messages the data may be telling us.  We performed hypothesis testing to see if certain observations were statistically significant. 
+Rather than work in Python, we took directly to the Linux Shell commands in order to draw data from files and folders.  We manipulated this information slighlty before then archiving the files in order to create a backup.  We automated this process as well by setting up the crontab functionality.
 
 ## Skills (Developed & Applied)
-Programming, Python, Statistics, Probability, Hypothesis Testing, SciPy, Numpy, Pandas, Seaborn, Matplotlib, Dataframes, Data Modeling, EDA, Data Visualization, Data Summarization, Data Reporting, Communication
+Programming, Python, ETL &| ELT & Data Pipelines, Linux/Bash/Shell Commands
     
